@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Agrawal</h1>
-<h3 align="center">B.Tech Undergraduate at Indian Institute of Information Technology, Allahabad</h3>
+<h3 align="center">B.Tech Undergraduate at Indian Institute of Information Technology (IIIT), Allahabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawal-2005&label=Profile%20views&color=0e75b6&style=flat" alt="agrawal-2005" /> </p>
 
