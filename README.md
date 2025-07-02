@@ -1,22 +1,22 @@
 <h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/agrawal-2005/WindowShop.ai">
+  <a href="https://github.com/agrawal-2005/WindowShop_AI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=WindowShop_ai" />
   </a>
   <a href="https://github.com/agrawal-2005/PyRuntimeForge">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=PyRuntimeForge" />
   </a>
   <br />
-  <a href="https://github.com/agrawal-2005/Policy-Finder">
+  <a href="https://github.com/agrawal-2005/PolicyFinder">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=PolicyFinder" />
   </a>
   <a href="https://github.com/agrawal-2005/Memories">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=Memories" />
   </a>
-  <a href="https://github.com/agrawal-2005/Memories">
+  <a href="https://github.com/agrawal-2005/CODEEASY">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=Codeeasy" />
   </a>
-  <a href="https://github.com/agrawal-2005/Memories">
+  <a href="https://github.com/agrawal-2005/IIITA_LAB">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=IIITA_LAB" />
   </a>
 </p>
