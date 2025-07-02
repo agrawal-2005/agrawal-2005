@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Prashant Agrawal</h1>
+<h3 align="center">B.Tech Undergraduate at Indian Institute of Information Technology (IIIT), Allahabad</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawal-2005&label=Visitors&color=0e75b6&style=flat" alt="agrawal-2005" /> </p>
+
+<br>
 <h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
   <a href="https://github.com/agrawal-2005/WindowShop_AI">
@@ -20,11 +26,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=IIITA_LAB" />
   </a>
 </p>
-
-<h1 align="center">Hi 👋, I'm Prashant Agrawal</h1>
-<h3 align="center">B.Tech Undergraduate at Indian Institute of Information Technology (IIIT), Allahabad</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawal-2005&label=Visitors&color=0e75b6&style=flat" alt="agrawal-2005" /> </p>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <div>
