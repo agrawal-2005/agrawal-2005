@@ -46,7 +46,7 @@
   <li>🌱 Currently learning <strong>Advanced Backend Architecture & System Design</strong>, exploring <strong>AI/ML technologies</strong>, and working on seamless <strong>integration of ML models into full-stack applications</strong>.</li>
   <li>💬 Ask me about <strong>MERN Stack</strong>, <strong>REST APIs</strong>, <strong>Machine Learning</strong>, <strong>Data Structures & Algorithms</strong>, <strong>Operating Systems</strong>, <strong>DBMS</strong>, <strong>OOP</strong>, and <strong>Computer Networks</strong>.</li>
   <li>📫 Reach me at: <strong><a href="mailto:agrawalprashant906@gmail.com">agrawalprashant906@gmail.com</a></strong></li>
-  <li>📄 View my résumé: <a href="https://drive.google.com/file/d/1EnS1TkDwaCsrpRcxLsYkK-wXZNNWDQQf/view?usp=sharing" target="_blank"><strong>My Resume</strong></a></li>
+  <li>📄 View my résumé: <a href="https://drive.google.com/file/d/1U-0esvevNAQShLWK690FjvRF66ODjy4s/view?usp=drivesdk" target="_blank"><strong>My Resume</strong></a></li>
 </ul>
 
 <hr>
