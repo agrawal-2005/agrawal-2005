@@ -6,8 +6,8 @@
 <br>
 <h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/agrawal-2005/WindowShop_AI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=WindowShop_ai" />
+  <a href="https://github.com/agrawal-2005/WindowShop_AI.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=WindowShop_AI" />
   </a>
   <a href="https://github.com/agrawal-2005/Letsdress.AI.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agrawal-2005&repo=Letsdress.AI" />
