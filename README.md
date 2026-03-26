@@ -31,8 +31,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/pr-shant26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pr-shant26" height="30" width="40" /></a>
 <a href="https://fb.com/prshant26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prshant26" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iec2022120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iec2022120" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bitwisebrain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bitwisebrain" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/goldrevboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iec2022120" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/archief_117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bitwisebrain" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/iec202jfpf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iec202jfpf" height="30" width="40" /></a>
 </p>
 
