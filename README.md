@@ -41,7 +41,7 @@ Monitoring       Prometheus · New Relic · Istio · Streamlit
 |---------|-------------|-------|
 | [**PyRuntimeForge**](https://github.com/agrawal-2005/PyRuntimeForge) | Scalable code execution platform with isolated, stateful user environments and real-time I/O streaming | Flask · Kubernetes · MongoDB · SocketIO |
 | [**WindowShop_AI**](https://github.com/agrawal-2005/WindowShop_AI) | Real-time in-video product discovery tool — click any object in a video to get shoppable results (92% accuracy) | Python · Flask · PyTorch · YOLOv8 · CLIP |
-| [**GENAI Smart Medical Chatbot**](https://github.com/agrawal-2005/GENAI-Medical-Chatbot) | RAG-based medical chatbot with semantic search and multi-turn conversation memory | Flask · LangChain · Llama · Pinecone · SQLite |
+| [**GENAI Smart Medical Chatbot**](https://github.com/agrawal-2005/GENAI-Smart-Medical-Chatbot) | RAG-based medical chatbot with semantic search and multi-turn conversation memory | Flask · LangChain · Llama · Pinecone · SQLite |
 
 > *Replace the GitHub links above with your actual repo URLs if they differ.*
 
