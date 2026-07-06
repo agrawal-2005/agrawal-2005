@@ -76,18 +76,15 @@ Observability Prometheus · New Relic · Istio · Streamlit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agrawal-2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawal-2005&theme=github-dark-blue&hide_border=true" height="165" />
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawal-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-2005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=agrawal-2005&color=0e75b6&style=flat-square&label=Profile+Views" />
 
 **Open to SDE-1 · Backend Engineer · AI/ML Engineer roles for 2026**
 
