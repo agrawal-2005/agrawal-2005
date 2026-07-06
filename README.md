@@ -4,33 +4,35 @@
 
 **Software Engineer Intern @ [Locus](https://locus.sh) · B.Tech ECE @ IIIT Allahabad**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pr-shant26)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prashant26.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pr-shant26)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalprashant906@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/archief_117)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/goldrevboy)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aa333)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode_Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/archief_117)
+[![Codeforces](https://img.shields.io/badge/Codeforces_Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/goldrevboy)
+[![CodeChef](https://img.shields.io/badge/CodeChef_5★-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/aa333)
 
 </div>
 
 ---
 
-### About Me
+### About
 
-I'm a backend-focused software engineer who enjoys building scalable systems, designing clean APIs, and solving performance problems. Currently interning at **Locus**, working on multi-tenant logistics platforms with TypeScript, Node.js, and MySQL. Previously built an observability platform at **Bindisa Agritech** using Python, Kubernetes, and Prometheus.
+I build backend systems, distributed infrastructure, and GenAI applications that work outside the demo. Currently interning at **Locus**, where I ship automation pipelines for a logistics platform that has handled over a billion deliveries. Previously at **Bindisa Agritech**, building observability tooling with Python, Kubernetes, and Prometheus.
 
-Outside of work, I spend most of my time on competitive programming — **Knight on LeetCode**, **Expert on Codeforces**, **5★ on CodeChef**, with **1000+ problems** solved across platforms.
+Most of my time goes into distributed systems, reliability engineering, and turning LLMs into production software. On the side — competitive programming, with 1000+ problems solved across LeetCode, Codeforces, and CodeChef.
 
 ---
 
 ### Tech Stack
 
 ```
-Languages        C++ · Python · JavaScript · TypeScript · SQL
-Backend          Node.js · Flask · Express.js · REST APIs
-DB & Infra       MySQL · MongoDB · Docker · Kubernetes · AWS · Linux · CI/CD
-ML/AI            PyTorch · YOLOv8 · CLIP · LangChain · HuggingFace · Pinecone
-Monitoring       Prometheus · New Relic · Istio · Streamlit
+Languages     Python · TypeScript · JavaScript · C++ · SQL
+Backend       Node.js · FastAPI · Flask · Express.js · REST APIs
+Cloud         AWS · Docker · Kubernetes · Linux · CI/CD
+Databases     PostgreSQL · MySQL · MongoDB · Redis · ChromaDB · Pinecone
+GenAI & ML    LangChain · RAG · LLMs · PyTorch · HuggingFace · HDBSCAN · Prompt Engineering
+Observability Prometheus · New Relic · Istio · Streamlit
 ```
 
 ---
@@ -39,11 +41,18 @@ Monitoring       Prometheus · New Relic · Istio · Streamlit
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**PyRuntimeForge**](https://github.com/agrawal-2005/PyRuntimeForge) | Scalable code execution platform with isolated, stateful user environments and real-time I/O streaming | Flask · Kubernetes · MongoDB · SocketIO |
-| [**WindowShop_AI**](https://github.com/agrawal-2005/WindowShop_AI) | Real-time in-video product discovery tool — click any object in a video to get shoppable results (92% accuracy) | Python · Flask · PyTorch · YOLOv8 · CLIP |
-| [**GENAI Smart Medical Chatbot**](https://github.com/agrawal-2005/GENAI-Smart-Medical-Chatbot) | RAG-based medical chatbot with semantic search and multi-turn conversation memory | Flask · LangChain · Llama · Pinecone · SQLite |
+| [**Cortex**](https://github.com/agrawal-2005/Cortex) | Company knowledge extraction platform that turns scattered data into AI-executable workflows with built-in safety checks · 283 automated tests · ~32ms query latency | Python · FastAPI · PostgreSQL · ChromaDB · HDBSCAN · Groq |
+| [**Self-Healing Distributed System**](https://github.com/agrawal-2005/self-healing-system) | Event-driven platform on AWS that auto-detects and recovers failed microservices in 5-30 seconds · 74 automated tests | Python · FastAPI · Docker · AWS Lambda · EventBridge |
+| [**WindowShop_AI**](https://github.com/agrawal-2005/WindowShop_AI) | Real-time in-video product discovery — click any object in a video, find and buy similar products · 92% accuracy · HackOn with Amazon Top 10 | Python · Flask · PyTorch · YOLOv8 · CLIP |
+| [**GENAI Smart Medical Chatbot**](https://github.com/agrawal-2005/GENAI-Smart-Medical-Chatbot) | RAG-based medical chatbot with semantic search and multi-turn conversation memory | Python · Flask · LangChain · Llama · Pinecone · SQLite |
 
-> *Replace the GitHub links above with your actual repo URLs if they differ.*
+---
+
+### Achievements
+
+🏆 **HackOn with Amazon** — National Semifinalist · Top 10 teams nationwide  
+🏆 **Flipkart Grid** — National Semifinalist · Top 30 teams nationally  
+🏆 **Amazon ML Summer School 2024** — Selected nationwide  
 
 ---
 
@@ -53,31 +62,33 @@ Monitoring       Prometheus · New Relic · Istio · Streamlit
 
 | Platform | Handle | Rating |
 |----------|--------|--------|
-| LeetCode | [archief_117](https://www.leetcode.com/archief_117) | **Knight** |
+| LeetCode | [archief_117](https://leetcode.com/u/archief_117) | **Knight** |
 | Codeforces | [goldrevboy](https://codeforces.com/profile/goldrevboy) | **Expert** |
 | CodeChef | [aa333](https://www.codechef.com/users/aa333) | **5★** |
 
-**Contest Highlights:** Rank 854 LeetCode BiWeekly · Ranks 426 & 443 Codeforces · Ranks 4, 13 & 50 CodeChef
+**Contest Highlights** · Rank 854 LeetCode BiWeekly · Ranks 426 & 443 Codeforces · Ranks 4, 13 & 50 CodeChef
 
 </div>
-
----
-
-### Achievements
-
-🏆 **HackOn with Amazon** — National Semifinalist, Top 10 teams nationwide  
-🏆 **Flipkart Grid** — National Semifinalist, Top 30 teams nationally  
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=agrawal-2005&theme=github-dark-blue&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=agrawal-2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawal-2005&theme=github-dark-blue&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-2005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=agrawal-2005&color=0e75b6&style=flat-square&label=Profile+Views" />
+
+<img src="https://komarev.com/ghpvc/?username=agrawal-2005&color=0e75b6&style=flat-square&label=Profile+Views" />
+
+**Open to SDE-1 · Backend Engineer · AI/ML Engineer roles for 2026**
+
 </div>
